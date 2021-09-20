@@ -1,0 +1,21 @@
+.is-active {
+    background-color: rgb(0, 110, 220);
+}
+
+li {
+    width: 100%
+}
+
+.level-left{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 8rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
+.modal-background{
+    background-color: rgb(0, 110, 220);
+
+}
